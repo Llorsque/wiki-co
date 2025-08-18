@@ -1,0 +1,15 @@
+title: "Sport Fryslân • Interne wiki"
+description: "Clubondersteuning — subsidies, producten & diensten, thema’s"
+baseurl: ""
+url: ""
+collections:
+  subsidies: { output: true, permalink: /subsidies/:name/ }
+  producten: { output: true, permalink: /producten/:name/ }
+  themas:    { output: true, permalink: /themas/:name/ }
+markdown: kramdown
+kramdown: { input: GFM }
+defaults:
+  - { scope: { path: "", type: "subsidies" }, values: { layout: default, category: "Subsidies" } }
+  - { scope: { path: "", type: "producten" }, values: { layout: default, category: "Producten & diensten" } }
+  - { scope: { path: "", type: "themas" }, values: { layout: default, category: "Thema’s" } }
+exclude: [README.md]

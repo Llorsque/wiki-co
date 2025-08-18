@@ -1,16 +1,16 @@
-# Sport Fryslân • Interne wiki (prototype, 18 August 2025)
+# Sport Fryslân • Interne wiki (Jekyll)
 
-Deze repo bevat een **multi-page** wiki voor clubondersteuners met een **dropdown-menu** en **globale zoekfunctie**.
+High-end **Markdown + Jekyll** wiki in Sport Fryslân-stijl. Makkelijk beheren via GitHub.
 
-## Zo zet je 'm live (GitHub Pages)
-1. Upload alle bestanden naar de **root** van je repository.
-2. Ga naar **Settings → Pages** en kies *Deploy from branch* → `main` → folder `/ (root)`.
-3. Open de Pages-URL.
+## Live zetten (GitHub Pages)
+1. Upload alles naar de **root** van je repo.
+2. Settings → Pages → Deploy from branch → `main` → `/ (root)`.
 
-## Content bijwerken
-- Bewerk losse pagina’s in `/subsidies`, `/producten`, `/themas`.
-- De zoekfunctie gebruikt `search-index.json`. Werk deze bij als je veel wijzigt (handmatig of via script).
-- Vervang `/assets/logo.svg` door het **officiële** logo (zelfde bestandsnaam).
+## Content aanpassen
+- Subsidies: `_subsidies/*.md`
+- Producten & diensten: `_producten/*.md`
+- Thema’s: `_themas/*.md`
 
-## Interne noot
-Controleer altijd de bronlinks op elke pagina voordat je adviseert (voorwaarden en data wijzigen regelmatig).
+Zoekfunctie gebruikt `/search.json` en werkt automatisch.
+
+Laatst bijgewerkt: 2025-08-18

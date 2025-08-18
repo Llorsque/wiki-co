@@ -1,0 +1,14 @@
+---
+layout: null
+---
+[
+{% assign docs = site.subsidies | concat: site.producten | concat: site.themas %}
+{% for p in docs %}
+{"title": {{ p.title | jsonify }},
+ "url": {{ p.url | relative_url | jsonify }},
+ "category": {{ p.category | jsonify }},
+ "snippet": {{ p.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }},
+ "content": {{ p.content | strip_html | strip_newlines | jsonify }}}
+{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
