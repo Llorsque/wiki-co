@@ -1,11 +1,13 @@
-document.addEventListener('DOMContentLoaded', () => {
-  const input = document.getElementById('searchInput');
-  input.addEventListener('input', () => {
-    const term = input.value.toLowerCase();
-    const articles = document.querySelectorAll('article');
-    articles.forEach(a => {
-      const text = a.innerText.toLowerCase();
-      a.style.display = text.includes(term) ? '' : 'none';
-    });
+document.getElementById('searchInput').addEventListener('input', function() {
+  let filter = this.value.toLowerCase();
+  let articles = document.querySelectorAll('article');
+
+  articles.forEach(article => {
+    let text = article.innerText.toLowerCase();
+    if (text.includes(filter)) {
+      article.style.display = '';
+    } else {
+      article.style.display = 'none';
+    }
   });
 });

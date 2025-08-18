@@ -1,15 +1,18 @@
-# Clubondersteuning Wiki • Sport Fryslân
+# Clubondersteuning Wiki - Sport Fryslân
 
-Dit is een platte GitHub Pages site die dient als interne wiki voor clubondersteuning.
+Dit is een prototype van een interne wiki voor clubondersteuning.  
+Doel: alle informatie over subsidies, producten, diensten en thema's toegankelijk maken voor medewerkers.
 
-## 🚀 Gebruik
-1. Upload deze bestanden (`index.html`, `styles.css`, `app.js`, `README.md`) naar de **root** van je repo.
-2. Zet in **Settings → Pages** de bron op `main` (root).
-3. Open de URL die GitHub Pages geeft.
+## Functionaliteit
+- Doorzoekbare artikelen (subsidies, producten, thema's)
+- Duidelijke navigatie
+- Simpele interface (a la Wikipedia)
 
-## ✍️ Content toevoegen
-- Voeg extra info toe door artikelen in `index.html` of via uitbreidingen in aparte `.md` bestanden.
-- De zoekfunctie filtert automatisch de zichtbare artikelen.
+## Gebruik
+Voeg nieuwe content toe door in `index.html` een nieuw `<article>`-blok toe te voegen.
 
----
-© Sport Fryslân - interne wiki prototype
+## Opzet
+- index.html — hoofdstructuur en content
+- styles.css — vormgeving
+- app.js — zoekfunctie
+- README.md — uitleg
