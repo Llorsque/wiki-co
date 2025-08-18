@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="36" viewBox="0 0 180 36">
+  <g font-family="Archivo,Arial,Helvetica,sans-serif" font-weight="700">
+    <text x="0" y="26" font-size="24" fill="#212945">Sport</text>
+    <text x="82" y="26" font-size="24" fill="#212945">Fryslân</text>
+  </g>
+  <circle cx="168" cy="8" r="6" fill="#52E8E8"/>
+</svg>

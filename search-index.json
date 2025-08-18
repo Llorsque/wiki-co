@@ -1,47 +1,72 @@
 [
   {
+    "title": "Start",
+    "url": "index.html",
+    "content": "\n\n  Welkom bij de interne wiki Clubondersteuning\n  Hier vind je interne, praktische informatie voor het ondersteunen van sportverenigingen in Fryslân: subsidies, producten & diensten en thematische handvatten. Gebruik de zoekbalk of het menu hierboven.\n  \n    Intern\n    Laatste update: 18 August 2025\n  \n\n\n\n  \n    Subsidies\n    BOSA, Jeugdfonds Sport & Cultuur en Lokaal Sportakkoord II (SPUK): wat is het, hoe leg je het uit en wat check je vooraf?\n    Ga naar BOSA\n  \n  \n    Producten & diensten\n    Onze eigen dienstverlening richting clubs: clubkadercoach, vrijwilligersbeleid, scholingen & trainingen.\n    Ga naar Clubkadercoach\n  \n  \n    Thema’s\n    Bestuur & beleid, financiën en vitaliteit — basiskennis en verwijzingen die je vaak nodig hebt.\n    Ga naar Bestuur & beleid\n  \n\n\n\n  Let op (intern): voorwaarden, loketten en deadlines kunnen wijzigen. Controleer altijd de bronlinks onderaan elke pagina voordat je een vereniging adviseert.\n\n",
+    "keywords": "start, welkom, interne wiki, subsidies, producten, themas",
+    "snippet": "Welkom bij de interne wiki Clubondersteuning"
+  },
+  {
     "title": "BOSA",
     "url": "subsidies/bosa.html",
-    "content": "Subsidie voor bouw en onderhoud sportaccommodaties"
+    "content": "\nBOSA — Stimulering bouw en onderhoud sportaccommodaties\nVoor wie? Amateursportorganisaties (verenigingen en stichtingen zonder winstoogmerk) voor bouw- en onderhoudskosten én sportmaterialen. Voor activiteiten gericht op o.a. energiebesparing en toegankelijkheid gold een aanvullend percentage.\n\nWat is het?\nBOSA ondersteunt investeringen in sportaccommodaties en sportmaterialen. In 2025 is het budget overvraagd en kunnen nieuwe aanvragen niet meer worden ingediend; de volgende aanvraagmogelijkheid is aangekondigd voor 5 januari 2026 – 09:00 (onder voorbehoud).\n\nBelangrijke punten (vooraf checken)\n\n  Minimale drempel en subsidiabele kosten conform regeling.\n  Voor 2025: budget was €74 mln en is overvraagd; houd rekening met uitstel naar volgende ronde.\n  BOSA versus DUMAVA: in 2025 werd onderscheid en keuze toegelicht; let op wederzijdse uitsluitingen in specifieke situaties.\n\n\nAanpak voor clubondersteuners (als de regeling opent)\n\n  Vraagverheldering: wat is de investering, tijdlijn, en past dit onder BOSA?\n  Documenten: offertes, specificaties, eigendoms-/gebruiksgegevens van de accommodatie.\n  Keuzehulp: BOSA of DUMAVA (bij verduurzaming), afhankelijk van voorwaarden en combinatie-verboden.\n  Indienen: via het landelijk loket zodra de ronde open is.\n  Bewaking: volg status en communiceer termijnen richting vereniging.\n\n\nTips (intern)\n\n  Bij verduurzamingsmaatregelen: check of een energieadvies verplicht is (DUMAVA).\n  Let op btw-positie en meerjarige planning, dit kan effect hebben op subsidiabiliteit.\n\n\nBronnen (actueel houden)\n\n  Officiële BOSA-pagina (DUS-I): status en aanvraagdata. dus-i.nl/subsidies/…\n  Rijksoverheid nieuws: budget 2025 overvraagd. rijksoverheid.nl/…/overvraagd\n  Verschillen BOSA vs DUMAVA (DUS-I). dus-i.nl/…/bosa-en-dumava\n  RVO-informatie verduurzaming & DUMAVA. rvo.nl/dumava\n\n",
+    "keywords": "bosa, sportaccommodaties, bouw, onderhoud, rvo, dus-i, dumava",
+    "snippet": "BOSA — Stimulering bouw en onderhoud sportaccommodaties"
   },
   {
-    "title": "Jeugdfonds",
+    "title": "Jeugdfonds Sport & Cultuur",
     "url": "subsidies/jeugdfonds.html",
-    "content": "Ondersteuning voor kinderen uit gezinnen met laag inkomen"
+    "content": "\nJeugdfonds Sport & Cultuur\nVoor wie? Kinderen en jongeren uit gezinnen met geldzorgen. Het fonds betaalt contributie/lesgeld (en vaak ook benodigdheden) zodat zij kunnen meedoen.\n\nWat is het?\nHet Jeugdfonds betaalt sport- of cultuurdeelname voor kinderen en jongeren wanneer thuis niet genoeg geld is. Aanvragen verlopen niet door ouders zelf maar via een lokale Meerkracht (voorheen: intermediair).\n\nAanpak voor clubondersteuners\n\n  Signaal: vereniging of school signaleert dat contributie/lesgeld een probleem is.\n  Verbinding: koppel ouder/verzorger aan een lokale Meerkracht.\n  Aanvraag: Meerkracht dient de aanvraag in via het portaal.\n  Follow-up: check startdatum, materiaal en eventuele vervolgkosten.\n\n\nBelangrijke punten\n\n  Leeftijd en maximale vergoedingen verschillen per gemeente/regio.\n  Materiaalvergoeding is mogelijk; beleid verschilt lokaal.\n\n\nBronnen\n\n  Landelijke site Jeugdfonds: uitleg & portaal. jeugdfondssportencultuur.nl\n  Meerkracht (intermediair) info. jeugdfondssportencultuur.nl/meerkracht\n  Inlog/aanvraag-omgeving. allekinderendoenmee.nl\n\n",
+    "keywords": "jeugdfonds, meerkracht, intermediair, contributie, lesgeld",
+    "snippet": "Jeugdfonds Sport & Cultuur"
   },
   {
-    "title": "Lokaal Sportakkoord",
+    "title": "Lokaal Sportakkoord II",
     "url": "subsidies/lokaal-sportakkoord.html",
-    "content": "Samenwerking voor lokaal sportbeleid"
+    "content": "\nLokaal Sportakkoord II (SPUK)\nWat is het? Het landelijke Sportakkoord II (sinds 2023) versterkt de sport lokaal. Gemeenten ontvangen middelen via de Brede SPUK. Lokale partners maken samen afspraken en projecten om sport toegankelijk en toekomstbestendig te maken.\n\nHoe werkt het lokaal?\n\n  Regie bij gemeenten: uitvoering en aanvraagprocedures verschillen per gemeente.\n  Projecten: gericht op fundament, bereik en betekenis van sport in de wijk/gemeente.\n  Verantwoording: via SISA-indicatoren binnen de Brede SPUK (2023–2026).\n\n\nAanpak voor clubondersteuners\n\n  Verzamel de lokale regeling (pagina gemeente/regionale sportsite).\n  Help de vereniging bij een kort projectplan (doel, activiteiten, partners, begroting, planning).\n  Verbind passende partners (buurtsportcoach, scholen, welzijn, zorg).\n  Check deadlines en beoordelingscriteria (lokaal).\n\n\nBronnen\n\n  NOC*NSF – Sportakkoord II (achtergrond). nocnsf.nl/sportakkoord\n  Informatie voor gemeenten + SPUK. sportakkoord.nl/…voor-gemeenten\n\n",
+    "keywords": "sportakkoord, spuk, gemeente, sisa, partners",
+    "snippet": "Lokaal Sportakkoord II (SPUK)"
   },
   {
     "title": "Clubkadercoach",
     "url": "producten/clubkadercoach.html",
-    "content": "Ondersteuning en begeleiding van trainers"
+    "content": "\nClubkadercoach\nDoel: trainers en begeleiders op de club versterken, met meer kwaliteit en plezier.\n\nWat is het?\nEen traject waarin een coach op of voor de club werkt aan coaching-on-the-job, didactiek, veilig sportklimaat en borging. Sluit aan bij de inzet op opgeleid en ondersteund kader binnen de vereniging.\n\nAanpak\n\n  Intake & doelbepaling met bestuur/hoofdtrainer.\n  Begeleidsplan met sessies, observaties en intervisie.\n  Uitvoering (trainingen, werkvormen, feedback).\n  Evaluatie & borging (afspraken, vervolgscholing).\n\n\nBronnen & inspiratie\n\n  NOC*NSF Academie voor Sportkader – opleidingen & scholingen. nocnsf.nl/opleidingen\n  Over Sport Fryslân – ondersteuning van clubs en gemeenten. sportfryslan.nl/over-ons/\n\n",
+    "keywords": "kader, coaching, trainers, scholing",
+    "snippet": "Clubkadercoach"
   },
   {
     "title": "Vrijwilligersbeleid",
     "url": "producten/vrijwilligersbeleid.html",
-    "content": "Tips en beleid voor vrijwilligers"
+    "content": "\nVrijwilligersbeleid\nWaarom? Duidelijke afspraken en waardering zorgen voor continuïteit, veiligheid en betrokkenheid binnen de vereniging.\n\nKernonderdelen\n\n  Visie & rollen: taken omschrijven, aanspreekpunten benoemen.\n  Werving & behoud: gerichte profielen, introductie & begeleiding.\n  Veiligheid: VOG-beleid, omgangsregels, meldstructuur.\n  Waardering: kleine gebaren, scholing, groei.\n\n\nAanpak\n\n  Start met een quickscan vrijwilligers (huidige taken & gaten).\n  Leg afspraken vast in een compact beleid (2–4 pagina’s).\n  Implementeer coördinatie (vrijwilligerscoördinator).\n\n\nBronnen\n\n  NOC*NSF – Aan de slag met vrijwilligersbeleid. nocnsf.nl/…/vrijwilligersbeleid\n\n",
+    "keywords": "vrijwilligers, vog, waardering, coördinator",
+    "snippet": "Vrijwilligersbeleid"
   },
   {
-    "title": "Scholingen",
+    "title": "Scholingen & trainingen",
     "url": "producten/scholingen.html",
-    "content": "Opleidingen en cursussen voor trainers en bestuurders"
+    "content": "\nScholingen & trainingen\nWat vind je hier? Informatie en verwijzingen naar opleidingen voor bestuurders, trainers, scheidsrechters en vertrouwenscontactpersonen.\n\nWaar kijken we eerst?\n\n  NOC*NSF Academie voor Sportkader: breed aanbod en bijscholing.\n  Bond-specifieke opleidingen en lokale workshops.\n\n\nTips voor clubondersteuners\n\n  Laat clubs een jaarplanning scholing maken (vrijwilligers behouden).\n  Koppel scholing aan praktische doelen (bijv. veilige sportomgeving).\n\n\nBronnen\n\n  NOC*NSF Academie voor Sportkader. nocnsf.nl/opleidingen\n\n",
+    "keywords": "opleidingen, noc*nsf, bijscholing",
+    "snippet": "Scholingen & trainingen"
   },
   {
-    "title": "Bestuur & Beleid",
+    "title": "Bestuur & beleid",
     "url": "themas/bestuur-beleid.html",
-    "content": "Goed bestuur en beleidsontwikkeling"
+    "content": "\nBestuur & beleid\nGoed bestuur is de basis voor een veilige, transparante en toekomstbestendige vereniging. De Code Goed Sportbestuur biedt richting en minimale kwaliteitseisen.\n\nFocuspunten\n\n  Rollen & verantwoordelijkheden (mandaten, functiescheiding).\n  Integriteit & veiligheid (gedragscode, meldpunt).\n  Transparantie (jaarplannen, begroting, verslag).\n\n\nBronnen\n\n  NOC*NSF – Goed Sportbestuur (code & eisen). nocnsf.nl/…/goed-sportbestuur\n\n",
+    "keywords": "governance, code, goed bestuur",
+    "snippet": "Bestuur & beleid"
   },
   {
     "title": "Financiën",
     "url": "themas/financien.html",
-    "content": "Financieel beheer en subsidies"
+    "content": "\nFinanciën\nEen gezonde clubbegroting vraagt om overzicht, keuzes en periodieke bijsturing. Denk aan scenario’s, liquiditeitsplanning en duidelijke afspraken over reserveringen.\n\nWat pak je eerst op?\n\n  Begroting & cashflow maandelijks bijwerken.\n  Kostprijs contributie en indexatiebeleid.\n  Subsidies & fondsen (o.a. BOSA/DUMAVA, lokaal fonds, Jeugdfonds).\n\n\nBronnen\n\n  NOC*NSF Clubbase – Financiën. clubbase.sport.nl/…/financien\n  Rijksoverheid/DUS-I – BOSA updates. rijksoverheid.nl/…/overvraagd\n\n",
+    "keywords": "begroting, cashflow, subsidies, clubbase",
+    "snippet": "Financiën"
   },
   {
     "title": "Vitaliteit",
     "url": "themas/vitaliteit.html",
-    "content": "Gezondheid, beweging en vitaliteit"
+    "content": "\nVitaliteit\nVitaliteit gaat over fitte sporters en fitte verenigingen. In Fryslân werken buurtsportcoaches en partners samen aan een vitale mienskip.\n\nWat werkt goed?\n\n  Laagdrempelige instroom (kennismakingslessen, proeftrainingen).\n  Samenwerking lokaal (scholen, welzijn, zorg, buurtsportcoach).\n  Duurzaam aanbod (gewoontevorming, veilige omgeving).\n\n\nBronnen\n\n  Sport Fryslân – provinciale inzet & impact. sportfryslan.nl/over-ons/\n  Nieuws/voorbeelden buurtsportcoaches in Fryslân. sportfryslan.nl/…/buurtsportcoaches\n\n",
+    "keywords": "buurtsportcoach, gezondheid, mienskip",
+    "snippet": "Vitaliteit"
   }
 ]

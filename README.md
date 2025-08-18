@@ -1,15 +1,16 @@
-# Clubondersteuning Wiki - Sport Fryslân
+# Sport Fryslân • Interne wiki (prototype, 18 August 2025)
 
-Dit is een prototype wiki voor interne informatie van clubondersteuners.
+Deze repo bevat een **multi-page** wiki voor clubondersteuners met een **dropdown-menu** en **globale zoekfunctie**.
 
-## Functionaliteiten
-- Dropdown menu (Subsidies, Producten & Diensten, Thema’s)
-- Zoekfunctie die door alle pagina’s zoekt
-- Simpele structuur en makkelijke uitbreidbaarheid
+## Zo zet je 'm live (GitHub Pages)
+1. Upload alle bestanden naar de **root** van je repository.
+2. Ga naar **Settings → Pages** en kies *Deploy from branch* → `main` → folder `/ (root)`.
+3. Open de Pages-URL.
 
-## Gebruik
-Upload alle bestanden naar een GitHub repository. Activeer GitHub Pages (branch: main, folder: root).
+## Content bijwerken
+- Bewerk losse pagina’s in `/subsidies`, `/producten`, `/themas`.
+- De zoekfunctie gebruikt `search-index.json`. Werk deze bij als je veel wijzigt (handmatig of via script).
+- Vervang `/assets/logo.svg` door het **officiële** logo (zelfde bestandsnaam).
 
-## Content toevoegen
-- Nieuwe pagina’s toevoegen in de juiste map (subsidies, producten, themas).
-- `search-index.json` bijwerken met titel, url en content.
+## Interne noot
+Controleer altijd de bronlinks op elke pagina voordat je adviseert (voorwaarden en data wijzigen regelmatig).
