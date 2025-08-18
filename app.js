@@ -1,20 +1,22 @@
-document.addEventListener('DOMContentLoaded', () => {
-  const searchInput = document.getElementById('search');
-  searchInput.addEventListener('input', async () => {
-    const query = searchInput.value.toLowerCase();
-    if (!query) return;
-    const response = await fetch('search-index.json');
-    const data = await response.json();
-    const results = data.filter(item => 
-      item.title.toLowerCase().includes(query) ||
-      item.content.toLowerCase().includes(query)
-    );
-    let resultsDiv = document.getElementById('results');
-    if (!resultsDiv) {
-      resultsDiv = document.createElement('div');
-      resultsDiv.id = 'results';
-      document.body.appendChild(resultsDiv);
-    }
-    resultsDiv.innerHTML = results.map(r => `<p><a href='${r.url}'>${r.title}</a>: ${r.snippet}</p>`).join('');
-  });
+document.getElementById('searchBox').addEventListener('input', function() {
+  let query = this.value.toLowerCase();
+  if (!query) return;
+  fetch('search-index.json')
+    .then(response => response.json())
+    .then(data => {
+      let results = data.filter(item => item.title.toLowerCase().includes(query) || item.content.toLowerCase().includes(query));
+      let content = document.getElementById('content');
+      content.innerHTML = '<h2>Zoekresultaten</h2>';
+      if (results.length === 0) {
+        content.innerHTML += '<p>Geen resultaten gevonden</p>';
+      } else {
+        let ul = document.createElement('ul');
+        results.forEach(r => {
+          let li = document.createElement('li');
+          li.innerHTML = '<a href="' + r.url + '">' + r.title + '</a>';
+          ul.appendChild(li);
+        });
+        content.appendChild(ul);
+      }
+    });
 });

@@ -1,56 +1,47 @@
 [
   {
-    "title": "BOZA Subsidie",
-    "content": "<h1>BOZA Subsidie</h1><p>De BOZA-subsidie is bedoeld om ...</p><h2>Hoe aanvragen?</h2><p>Je dient een aanvraag in via...</p><h2>Voorwaarden</h2><ul><li>Voorwaarde 1</li><li>Voorwaarde 2</li></ul>",
-    "snippet": "BOZA Subsidie</h1>De BOZA-subsidie is bedoeld om ...",
-    "url": "subsidies/boza.html"
+    "title": "BOSA",
+    "url": "subsidies/bosa.html",
+    "content": "Subsidie voor bouw en onderhoud sportaccommodaties"
   },
   {
-    "title": "Jeugdfonds Sport & Cultuur",
-    "content": "<h1>Jeugdfonds Sport & Cultuur</h1><p>Het Jeugdfonds helpt kinderen ...</p><h2>Hoe aanvragen?</h2><p>Via de intermediair ...</p><h2>Regels</h2><ul><li>Leeftijd 0-18</li><li>Voor gezinnen met laag inkomen</li></ul>",
-    "snippet": "Jeugdfonds Sport & Cultuur</h1>Het Jeugdfonds helpt kinderen ...",
-    "url": "subsidies/jeugdfonds.html"
+    "title": "Jeugdfonds",
+    "url": "subsidies/jeugdfonds.html",
+    "content": "Ondersteuning voor kinderen uit gezinnen met laag inkomen"
   },
   {
     "title": "Lokaal Sportakkoord",
-    "content": "<h1>Lokaal Sportakkoord</h1><p>Het lokaal sportakkoord stimuleert samenwerking ...</p><h2>Hoe aanvragen?</h2><p>Neem contact op met ...</p><h2>Voorbeelden</h2><p>Clubondersteuning, vitaliteit en meer.</p>",
-    "snippet": "Lokaal Sportakkoord</h1>Het lokaal sportakkoord stimuleert samenwerking ...",
-    "url": "subsidies/lokaal-sportakkoord.html"
+    "url": "subsidies/lokaal-sportakkoord.html",
+    "content": "Samenwerking voor lokaal sportbeleid"
   },
   {
-    "title": "ClubkaderCoach",
-    "content": "<h1>ClubkaderCoach</h1><p>De ClubkaderCoach ondersteunt trainers ...</p><h2>Proces</h2><p>Stap 1: intake, Stap 2: begeleiding ...</p>",
-    "snippet": "ClubkaderCoach</h1>De ClubkaderCoach ondersteunt trainers ...",
-    "url": "producten/clubkadercoach.html"
+    "title": "Clubkadercoach",
+    "url": "producten/clubkadercoach.html",
+    "content": "Ondersteuning en begeleiding van trainers"
   },
   {
     "title": "Vrijwilligersbeleid",
-    "content": "<h1>Vrijwilligersbeleid</h1><p>Goed vrijwilligersbeleid zorgt voor betrokkenheid ...</p><h2>Tips</h2><ul><li>Maak duidelijke afspraken</li><li>Waardeer vrijwilligers</li></ul>",
-    "snippet": "Vrijwilligersbeleid</h1>Goed vrijwilligersbeleid zorgt voor betrokkenheid ...",
-    "url": "producten/vrijwilligersbeleid.html"
+    "url": "producten/vrijwilligersbeleid.html",
+    "content": "Tips en beleid voor vrijwilligers"
   },
   {
-    "title": "Scholingen & Trainingen",
-    "content": "<h1>Scholingen & Trainingen</h1><p>Er zijn verschillende scholingen beschikbaar ...</p><h2>Voorbeelden</h2><ul><li>EHBO cursus</li><li>Trainer 2 opleiding</li></ul>",
-    "snippet": "Scholingen & Trainingen</h1>Er zijn verschillende scholingen beschikbaar ...",
-    "url": "producten/scholingen.html"
+    "title": "Scholingen",
+    "url": "producten/scholingen.html",
+    "content": "Opleidingen en cursussen voor trainers en bestuurders"
   },
   {
     "title": "Bestuur & Beleid",
-    "content": "<h1>Bestuur & Beleid</h1><p>Ondersteuning bij beleidsontwikkeling ...</p><h2>Voorbeelden</h2><p>Statuten, visie en missie ontwikkelen.</p>",
-    "snippet": "Bestuur & Beleid</h1>Ondersteuning bij beleidsontwikkeling ...",
-    "url": "themas/bestuur-beleid.html"
+    "url": "themas/bestuur-beleid.html",
+    "content": "Goed bestuur en beleidsontwikkeling"
   },
   {
-    "title": "Financi\u00ebn",
-    "content": "<h1>Financi\u00ebn</h1><p>Informatie over subsidies en begrotingen ...</p><h2>Tips</h2><p>Maak jaarlijks een financieel plan.</p>",
-    "snippet": "Financi\u00ebn</h1>Informatie over subsidies en begrotingen ...",
-    "url": "themas/financien.html"
+    "title": "Financiën",
+    "url": "themas/financien.html",
+    "content": "Financieel beheer en subsidies"
   },
   {
     "title": "Vitaliteit",
-    "content": "<h1>Vitaliteit</h1><p>Vitaliteit gaat over gezondheid, bewegen ...</p><h2>Projecten</h2><ul><li>Beweeg je Fit</li><li>Gezonde kantine</li></ul>",
-    "snippet": "Vitaliteit</h1>Vitaliteit gaat over gezondheid, bewegen ...",
-    "url": "themas/vitaliteit.html"
+    "url": "themas/vitaliteit.html",
+    "content": "Gezondheid, beweging en vitaliteit"
   }
 ]
