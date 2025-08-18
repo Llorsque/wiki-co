@@ -1,18 +1,14 @@
-# Clubondersteuning Wiki - Sport Fryslân
+# Sport Fryslân Wiki (Prototype)
 
-Dit is een prototype van een interne wiki voor clubondersteuning.  
-Doel: alle informatie over subsidies, producten, diensten en thema's toegankelijk maken voor medewerkers.
+Dit is een interne wiki voor clubondersteuning van Sport Fryslân.
 
-## Functionaliteit
-- Doorzoekbare artikelen (subsidies, producten, thema's)
-- Duidelijke navigatie
-- Simpele interface (a la Wikipedia)
+## Inhoud
+- Subsidies
+- Producten & Diensten
+- Thema's
 
-## Gebruik
-Voeg nieuwe content toe door in `index.html` een nieuw `<article>`-blok toe te voegen.
+Gebruik de zoekfunctie of het menu om informatie te vinden.
 
-## Opzet
-- index.html — hoofdstructuur en content
-- styles.css — vormgeving
-- app.js — zoekfunctie
-- README.md — uitleg
+## Aanpassen
+Voeg pagina's toe in de juiste map (subsidies, producten, themas). 
+Werk ook `search-index.json` bij zodat de zoekfunctie blijft werken.

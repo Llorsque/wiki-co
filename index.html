@@ -1,115 +1,44 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Clubondersteuning Wiki - Sport Fryslân</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="UTF-8">
+  <title>Sport Fryslân Wiki</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
   <header>
-    <h1>Clubondersteuning Wiki</h1>
-    <input type="text" id="searchInput" placeholder="Zoek bijvoorbeeld: BOZA, Vrijwilligers, Kader" />
+    <h1>Sport Fryslân Clubondersteuning Wiki</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="#">Subsidies</a>
+          <ul>
+            <li><a href="subsidies/boza.html">BOZA</a></li>
+            <li><a href="subsidies/jeugdfonds.html">Jeugdfonds</a></li>
+            <li><a href="subsidies/lokaal-sportakkoord.html">Lokaal Sportakkoord</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Producten & Diensten</a>
+          <ul>
+            <li><a href="producten/clubkadercoach.html">ClubkaderCoach</a></li>
+            <li><a href="producten/vrijwilligersbeleid.html">Vrijwilligersbeleid</a></li>
+            <li><a href="producten/scholingen.html">Scholingen</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Thema's</a>
+          <ul>
+            <li><a href="themas/bestuur-beleid.html">Bestuur & Beleid</a></li>
+            <li><a href="themas/financien.html">Financiën</a></li>
+            <li><a href="themas/vitaliteit.html">Vitaliteit</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <input type="text" id="search" placeholder="Zoek in de wiki...">
   </header>
-
-  <nav>
-    <ul>
-      <li><a href="#subsidies">Subsidies</a></li>
-      <li><a href="#producten">Producten & Diensten</a></li>
-      <li><a href="#themas">Thema's</a></li>
-    </ul>
-  </nav>
-
   <main>
-    <section id="subsidies">
-      <h2>Subsidies</h2>
-
-      <article>
-        <h3>BOZA – Basisondersteuning Verenigingen</h3>
-        <p>
-          BOZA is een subsidie voor sportverenigingen in Friesland die ondersteuning
-          nodig hebben bij organisatie en vrijwilligersbeleid.
-        </p>
-        <ul>
-          <li>Hoe aanvragen: via Sport Fryslân portal</li>
-          <li>Deadline: jaarlijks 1 oktober</li>
-          <li>Contactpersoon: Jan de Vries</li>
-        </ul>
-      </article>
-
-      <article>
-        <h3>Jeugdfonds Sport & Cultuur</h3>
-        <p>
-          Dit fonds helpt kinderen uit gezinnen waar onvoldoende geld is om lid te worden
-          van een sportvereniging. Verenigingen kunnen aanvragen indienen via intermediairs.
-        </p>
-      </article>
-
-      <article>
-        <h3>Lokaal Sportakkoord</h3>
-        <p>
-          Binnen het Lokaal Sportakkoord kunnen verenigingen projecten indienen die bijdragen
-          aan vitaliteit, inclusie of een veilig sportklimaat.
-        </p>
-      </article>
-    </section>
-
-    <section id="producten">
-      <h2>Producten & Diensten</h2>
-
-      <article>
-        <h3>ClubkaderCoach</h3>
-        <p>
-          Begeleidingstraject voor trainers en vrijwilligers, met als doel het verbeteren van
-          de kwaliteit en het vergroten van plezier in sport.
-        </p>
-      </article>
-
-      <article>
-        <h3>Vrijwilligersbeleid</h3>
-        <p>
-          Richtlijnen, tips en voorbeelden voor het opzetten van een duurzaam vrijwilligersbeleid.
-        </p>
-      </article>
-
-      <article>
-        <h3>Scholingen & Trainingen</h3>
-        <p>
-          Overzicht van beschikbare cursussen, workshops en opleidingen voor verenigingsbesturen en trainers.
-        </p>
-      </article>
-    </section>
-
-    <section id="themas">
-      <h2>Thema's</h2>
-
-      <article>
-        <h3>Bestuur & Beleid</h3>
-        <p>
-          Voorbeelden van beleidsplannen, draaiboeken en ondersteuning bij bestuurlijke vraagstukken.
-        </p>
-      </article>
-
-      <article>
-        <h3>Subsidies & Financiën</h3>
-        <p>
-          Informatie over subsidiemogelijkheden, begrotingen en financiële richtlijnen.
-        </p>
-      </article>
-
-      <article>
-        <h3>Vitaliteit</h3>
-        <p>
-          Programma's en projecten gericht op gezondheid, beweging en een vitale vereniging.
-        </p>
-      </article>
-    </section>
+    <h2>Welkom!</h2>
+    <p>Gebruik het menu of de zoekfunctie om informatie te vinden over subsidies, producten en thema's.</p>
   </main>
-
-  <footer>
-    <p>&copy; 2025 Sport Fryslân - Interne Wiki Clubondersteuning</p>
-  </footer>
-
-  <script src="app.js"></script>
 </body>
 </html>
