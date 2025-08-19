@@ -1,0 +1,23 @@
+---
+layout: "default"
+title: "workshop start2create"
+theme: "Overig"
+type: "product"
+summary: ""
+tags: []
+---
+# workshop start2create
+
+
+
+## Hoe aanvragen
+—
+
+## Interne route
+Interne stappen (concept): intake → voorwaarden check → documenten verzamelen → indiening → opvolging.
+
+## Voorwaarden
+Belangrijkste criteria en randvoorwaarden (concept).
+
+## Contact
+—

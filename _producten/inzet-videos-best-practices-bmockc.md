@@ -1,0 +1,23 @@
+---
+layout: "default"
+title: "Inzet video's/ best - practices (BMO/CKC)"
+theme: "Overig"
+type: "product"
+summary: ""
+tags: []
+---
+# Inzet video's/ best - practices (BMO/CKC)
+
+
+
+## Hoe aanvragen
+—
+
+## Interne route
+Interne stappen (concept): intake → voorwaarden check → documenten verzamelen → indiening → opvolging.
+
+## Voorwaarden
+Belangrijkste criteria en randvoorwaarden (concept).
+
+## Contact
+—

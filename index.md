@@ -2,14 +2,18 @@
 layout: default
 title: Start
 ---
-# Welkom bij de interne wiki Clubondersteuning
 
-Hier vind je interne, praktische informatie voor het ondersteunen van sportverenigingen in Fryslân: **subsidies**, **producten & diensten** en **thema’s**. Gebruik de zoekbalk hierboven of open een categorie via het menu.
+# Productenmatrix
 
-<div class="grid">
-  <div class="card"><h3>Subsidies</h3><p>BOSA, Jeugdfonds, Lokaal Sportakkoord II (SPUK).</p></div>
-  <div class="card"><h3>Producten & diensten</h3><p>Clubkadercoach, vrijwilligersbeleid, scholingen & trainingen.</p></div>
-  <div class="card"><h3>Thema’s</h3><p>Bestuur & beleid, financiën, vitaliteit.</p></div>
+Gebruik de **zoekbalk** of kies één van de thema’s.
+
+<div class="search-wrap">
+  <input id="globalSearch" type="search" placeholder="Zoek op naam, thema, type of tags…">
 </div>
+<div id="globalResults" class="grid"></div>
 
-<div class="protips" style="margin-top:18px"><strong>Interne tip:</strong> voorwaarden, loketten en deadlines kunnen wijzigen. Controleer de bronlinks op de detailpagina’s voordat je een vereniging adviseert.</div>
+<hr>
+
+<div class="theme-grid">
+<a class="btn-theme" href="/thema/overig/">Overig</a>
+</div>

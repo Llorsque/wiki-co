@@ -1,0 +1,8 @@
+<div class="card">
+  <h3><a href="{{ include.url }}">{{ include.title }}</a></h3>
+  <div class="badges">
+    {% if include.theme %}<span class="badge">{{ include.theme }}</span>{% endif %}
+    {% if include.type %}<span class="badge">{{ include.type }}</span>{% endif %}
+  </div>
+  {% if include.summary %}<p>{{ include.summary }}</p>{% endif %}
+</div>

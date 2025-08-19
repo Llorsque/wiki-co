@@ -6,8 +6,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <script>window.siteBase='{{ site.baseurl }}';</script>
-  <script defer src="{{ '/assets/js/app.js' | relative_url }}"></script>
 </head>
 <body>
   <header class="topbar">
@@ -15,25 +13,10 @@
       <img class="logo" src="{{ '/assets/img/logo.svg' | relative_url }}" alt="Sport Fryslân">
       <div class="brand-text"><strong>Sport Fryslân</strong><span>Interne wiki • Clubondersteuning</span></div>
     </a>
-    <div class="search-wrap"><input id="searchInput" type="search" placeholder="Zoek in subsidies, producten of thema’s…" autocomplete="off"></div>
-    <nav class="nav">
-      <ul class="menu">
-        <li class="menu-item"><button class="menu-btn">Subsidies</button>
-          <ul class="dropdown">{% for p in site.subsidies %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}</ul>
-        </li>
-        <li class="menu-item"><button class="menu-btn">Producten & diensten</button>
-          <ul class="dropdown">{% for p in site.producten %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}</ul>
-        </li>
-        <li class="menu-item"><button class="menu-btn">Thema’s</button>
-          <ul class="dropdown">{% for p in site.themas %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}</ul>
-        </li>
-      </ul>
-    </nav>
   </header>
-
-  <section id="searchPanel" class="search-panel" hidden><div class="search-results"><h2>Zoekresultaten</h2><div id="results"></div></div></section>
-
-  <main class="container"><article class="page">{% if page.category %}<div class="breadcrumbs"><a href="{{ '/' | relative_url }}">Home</a> · {{ page.category }}</div>{% endif %}{{ content }}{% if page.sources %}<h2>Bronnen</h2><ul>{% for s in page.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }}</a></li>{% endfor %}</ul>{% endif %}</article></main>
-
-  <footer class="footer"><div>Interne wiki · laatst bijgewerkt: 2025-08-18</div><div>Alleen collega’s met repo-toegang kunnen content wijzigen (via GitHub).</div></footer>
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer class="footer"><div>Interne wiki</div><div>Wijzigingen via GitHub (Markdown).</div></footer>
+  <script defer src="{{ '/assets/js/app.js' | relative_url }}"></script>
 </body></html>
