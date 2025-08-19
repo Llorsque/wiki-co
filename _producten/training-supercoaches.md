@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Training Supercoaches"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Training Supercoaches
-
-
-
 ## Hoe aanvragen
 —
 

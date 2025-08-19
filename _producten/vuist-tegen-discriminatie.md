@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Vuist tegen discriminatie"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Vuist tegen discriminatie
-
-
-
 ## Hoe aanvragen
 —
 

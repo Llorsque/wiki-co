@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "SF - onderzoeken"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# SF - onderzoeken
-
-
-
 ## Hoe aanvragen
 —
 

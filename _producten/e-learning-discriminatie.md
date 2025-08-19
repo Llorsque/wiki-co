@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "E-Learning discriminatie"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# E-Learning discriminatie
-
-
-
 ## Hoe aanvragen
 —
 

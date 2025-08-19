@@ -1,0 +1,5 @@
+<div class="breadcrumbs">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% if page.theme %} · <a href="{{ '/thema/' | relative_url }}{{ page.theme | slugify }}/">{{ page.theme }}</a>{% endif %}
+  {% if page.title %} · {{ page.title }}{% endif %}
+</div>

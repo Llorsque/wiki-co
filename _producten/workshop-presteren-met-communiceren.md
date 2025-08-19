@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "workshop presteren met communiceren"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# workshop presteren met communiceren
-
-
-
 ## Hoe aanvragen
 —
 

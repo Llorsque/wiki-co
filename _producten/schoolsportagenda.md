@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "schoolsportagenda"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# schoolsportagenda
-
-
-
 ## Hoe aanvragen
 —
 

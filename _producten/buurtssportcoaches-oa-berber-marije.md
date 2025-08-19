@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Buurtssportcoaches (oa Berber, Marije)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Buurtssportcoaches (oa Berber, Marije)
-
-
-
 ## Hoe aanvragen
 —
 

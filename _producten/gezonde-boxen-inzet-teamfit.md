@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Gezonde boxen (inzet TeamFit)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Gezonde boxen (inzet TeamFit)
-
-
-
 ## Hoe aanvragen
 —
 

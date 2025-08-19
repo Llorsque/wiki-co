@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "platform unieksporten.nl"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# platform unieksporten.nl
-
-
-
 ## Hoe aanvragen
 —
 

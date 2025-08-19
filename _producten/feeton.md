@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Feeton"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Feeton
-
-
-
 ## Hoe aanvragen
 —
 

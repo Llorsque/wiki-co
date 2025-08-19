@@ -6,17 +6,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script>window.siteBase='{{ site.baseurl }}';</script>
 </head>
 <body>
-  <header class="topbar">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      <img class="logo" src="{{ '/assets/img/logo.svg' | relative_url }}" alt="Sport Fryslân">
-      <div class="brand-text"><strong>Sport Fryslân</strong><span>Interne wiki • Clubondersteuning</span></div>
-    </a>
-  </header>
+  {% include header.html %}
   <main class="container">
     {{ content }}
   </main>
-  <footer class="footer"><div>Interne wiki</div><div>Wijzigingen via GitHub (Markdown).</div></footer>
-  <script defer src="{{ '/assets/js/app.js' | relative_url }}"></script>
+  {% include footer.html %}
+  <script defer src="{{ '/assets/js/search.js' | relative_url }}"></script>
 </body></html>

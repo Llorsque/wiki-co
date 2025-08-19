@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Coole vereniging, WhoZnext"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Coole vereniging, WhoZnext
-
-
-
 ## Hoe aanvragen
 —
 

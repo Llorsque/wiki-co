@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "ALVeestje"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# ALVeestje
-
-
-
 ## Hoe aanvragen
 —
 

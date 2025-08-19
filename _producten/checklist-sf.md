@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "checklist SF"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# checklist SF
-
-
-
 ## Hoe aanvragen
 —
 

@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Voorstelling OCIVI"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Voorstelling OCIVI
-
-
-
 ## Hoe aanvragen
 —
 

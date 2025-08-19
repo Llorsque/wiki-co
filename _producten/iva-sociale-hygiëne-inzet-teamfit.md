@@ -1,6 +1,6 @@
 ---
 layout: "product"
-title: "Oldstars, GoldenSports"
+title: "IVA / sociale hygiëne (inzet TeamFit)"
 theme: "Overig"
 type: "product"
 summary: ""

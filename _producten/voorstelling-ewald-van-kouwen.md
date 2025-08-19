@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Voorstelling Ewald van Kouwen"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Voorstelling Ewald van Kouwen
-
-
-
 ## Hoe aanvragen
 —
 

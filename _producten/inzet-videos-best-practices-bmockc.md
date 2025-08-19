@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Inzet video's/ best - practices (BMO/CKC)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Inzet video's/ best - practices (BMO/CKC)
-
-
-
 ## Hoe aanvragen
 —
 

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+
+<h1>{{ page.title }}</h1>
+<p class="kicker">{{ page.theme }}{% if page.type %} · {{ page.type }}{% endif %}</p>
+{% if page.summary %}<p>{{ page.summary }}</p>{% endif %}
+
+<div class="grid">
+  <div class="card">
+    <h2>Hoe aanvragen</h2>
+    {{ content | split: '## Interne route' | first | markdownify }}
+  </div>
+  <div class="card">
+    <h2>Interne route</h2>
+    {% capture after_apply %}{{ content | split: '## Interne route' | last }}{% endcapture %}
+    {{ after_apply | split: '## Voorwaarden' | first | markdownify }}
+  </div>
+  <div class="card">
+    <h2>Voorwaarden</h2>
+    {% capture after_internal %}{{ content | split: '## Voorwaarden' | last }}{% endcapture %}
+    {{ after_internal | split: '## Contact' | first | markdownify }}
+  </div>
+  <div class="card">
+    <h2>Contact</h2>
+    {{ content | split: '## Contact' | last | markdownify }}
+  </div>
+</div>
+
+<div style="margin-top:16px;display:flex;gap:8px;flex-wrap:wrap">
+  <a class="btn" href="{{ '/thema/' | relative_url }}{{ page.theme | slugify }}/">← Terug naar {{ page.theme }}</a>
+  <a class="btn" href="{{ '/' | relative_url }}">Home</a>
+</div>

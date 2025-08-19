@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "BSC's ism TeamFit"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# BSC's ism TeamFit
-
-
-
 ## Hoe aanvragen
 —
 

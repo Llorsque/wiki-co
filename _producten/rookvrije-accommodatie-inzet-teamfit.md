@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Rookvrije accommodatie (inzet TeamFit)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Rookvrije accommodatie (inzet TeamFit)
-
-
-
 ## Hoe aanvragen
 —
 

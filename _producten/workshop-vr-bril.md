@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Workshop VR Bril"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Workshop VR Bril
-
-
-
 ## Hoe aanvragen
 —
 

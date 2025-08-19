@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "advies qua gebruik en inrichting"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# advies qua gebruik en inrichting
-
-
-
 ## Hoe aanvragen
 —
 

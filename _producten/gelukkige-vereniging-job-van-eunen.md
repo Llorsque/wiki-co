@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Gelukkige vereniging (Job van Eunen)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Gelukkige vereniging (Job van Eunen)
-
-
-
 ## Hoe aanvragen
 —
 

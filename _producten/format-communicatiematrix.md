@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "format communicatiematrix"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# format communicatiematrix
-
-
-
 ## Hoe aanvragen
 —
 

@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "cursus SF (Veilig Ouder)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# cursus SF (Veilig Ouder)
-
-
-
 ## Hoe aanvragen
 —
 

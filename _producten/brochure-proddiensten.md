@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Brochure prod/diensten"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Brochure prod/diensten
-
-
-
 ## Hoe aanvragen
 —
 

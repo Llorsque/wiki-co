@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Platform vraag/aanbod"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Platform vraag/aanbod
-
-
-
 ## Hoe aanvragen
 —
 

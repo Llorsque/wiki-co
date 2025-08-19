@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Opstellen gedragscode (hulp)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Opstellen gedragscode (hulp)
-
-
-
 ## Hoe aanvragen
 —
 

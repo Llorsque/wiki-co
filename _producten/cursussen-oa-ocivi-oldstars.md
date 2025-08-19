@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Cursussen (oa Ocivi, Oldstars)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Cursussen (oa Ocivi, Oldstars)
-
-
-
 ## Hoe aanvragen
 —
 

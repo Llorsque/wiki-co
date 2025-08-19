@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "workshop SF"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# workshop SF
-
-
-
 ## Hoe aanvragen
 —
 

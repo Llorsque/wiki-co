@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "templates bonden (sportlink, allunited)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# templates bonden (sportlink, allunited)
-
-
-
 ## Hoe aanvragen
 —
 

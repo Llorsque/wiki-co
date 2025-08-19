@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "opleiding"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# opleiding
-
-
-
 ## Hoe aanvragen
 —
 

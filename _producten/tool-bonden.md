@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "tool bonden"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# tool bonden
-
-
-
 ## Hoe aanvragen
 —
 

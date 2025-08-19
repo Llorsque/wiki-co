@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="breadcrumbs">
+  <a href="{{ '/' | relative_url }}">Home</a> · Thema · {{ page.title }}
+</div>
+
+<div class="layout">
+  <aside class="sidebar">
+    <h4>{{ page.title }}</h4>
+    <div class="search-wrap"><input id="themeSearch" type="search" placeholder="Zoek binnen dit thema…"></div>
+    <ul class="side-list">
+      {% assign items = site.producten | where: 'theme', page.title %}
+      {% for p in items %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <hr>
+    <a class="btn" href="{{ '/' | relative_url }}">← Home</a>
+  </aside>
+
+  <section>
+    <h1>{{ page.title }}</h1>
+    <p class="kicker">Alle producten & diensten binnen dit thema</p>
+    <div id="themeList" class="grid">
+      {% assign items = site.producten | where: 'theme', page.title %}
+      {% for p in items %}
+        {% include product_card.html title=p.title url=p.url theme=p.theme type=p.type summary=p.summary %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

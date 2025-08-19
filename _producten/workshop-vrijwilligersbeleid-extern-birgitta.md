@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Workshop vrijwilligersbeleid (extern Birgitta)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Workshop vrijwilligersbeleid (extern Birgitta)
-
-
-
 ## Hoe aanvragen
 —
 

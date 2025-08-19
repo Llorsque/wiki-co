@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Sportbestuurders platformen (1-2tje knvb)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Sportbestuurders platformen (1-2tje knvb)
-
-
-
 ## Hoe aanvragen
 —
 

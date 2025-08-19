@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Sportmatch Noord"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Sportmatch Noord
-
-
-
 ## Hoe aanvragen
 —
 

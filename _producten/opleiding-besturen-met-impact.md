@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Opleiding besturen met impact"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Opleiding besturen met impact
-
-
-
 ## Hoe aanvragen
 —
 

@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Succesvol Leden Werven en Behouden  (extern Anne Prins, intern DJ/Jorick)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Succesvol Leden Werven en Behouden  (extern Anne Prins, intern DJ/Jorick)
-
-
-
 ## Hoe aanvragen
 —
 

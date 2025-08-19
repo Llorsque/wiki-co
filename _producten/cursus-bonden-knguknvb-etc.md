@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "cursus bonden (KNGU/KNVB etc)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# cursus bonden (KNGU/KNVB etc)
-
-
-
 ## Hoe aanvragen
 —
 

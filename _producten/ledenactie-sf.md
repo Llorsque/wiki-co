@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "ledenactie SF"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# ledenactie SF
-
-
-
 ## Hoe aanvragen
 —
 

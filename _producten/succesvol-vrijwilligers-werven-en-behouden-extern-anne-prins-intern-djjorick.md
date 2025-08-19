@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Succesvol Vrijwilligers Werven en Behouden (extern Anne Prins, intern DJ/Jorick)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Succesvol Vrijwilligers Werven en Behouden (extern Anne Prins, intern DJ/Jorick)
-
-
-
 ## Hoe aanvragen
 —
 

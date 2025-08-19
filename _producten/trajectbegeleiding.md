@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Trajectbegeleiding"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Trajectbegeleiding
-
-
-
 ## Hoe aanvragen
 —
 

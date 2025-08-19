@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Werkgeverschap"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Werkgeverschap
-
-
-
 ## Hoe aanvragen
 —
 

@@ -8,6 +8,6 @@ collections:
 markdown: kramdown
 kramdown: { input: GFM }
 defaults:
-  - { scope: { path: "", type: "producten" }, values: { layout: default, category: "Producten & diensten" } }
-  - { scope: { path: "", type: "themas" },    values: { layout: default, category: "Thema" } }
+  - { scope: { path: "", type: "producten" }, values: { layout: product, category: "Producten & diensten" } }
+  - { scope: { path: "", type: "themas" },    values: { layout: theme, category: "Thema" } }
 exclude: [README.md]

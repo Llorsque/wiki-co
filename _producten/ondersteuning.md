@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Ondersteuning"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Ondersteuning
-
-
-
 ## Hoe aanvragen
 —
 

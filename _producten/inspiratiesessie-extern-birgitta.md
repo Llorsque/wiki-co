@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Inspiratiesessie (extern Birgitta)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Inspiratiesessie (extern Birgitta)
-
-
-
 ## Hoe aanvragen
 —
 

@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "regeling"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# regeling
-
-
-
 ## Hoe aanvragen
 —
 

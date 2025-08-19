@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "overzicht contactpersonen bonden, gemeenten"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# overzicht contactpersonen bonden, gemeenten
-
-
-
 ## Hoe aanvragen
 —
 

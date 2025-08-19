@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "workshop start2create"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# workshop start2create
-
-
-
 ## Hoe aanvragen
 —
 

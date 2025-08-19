@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Dumava coach"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Dumava coach
-
-
-
 ## Hoe aanvragen
 —
 

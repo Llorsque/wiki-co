@@ -1,15 +1,11 @@
 ---
-layout: "default"
+layout: "product"
 title: "Energiescan (Sportstroom)"
 theme: "Overig"
 type: "product"
 summary: ""
 tags: []
 ---
-# Energiescan (Sportstroom)
-
-
-
 ## Hoe aanvragen
 —
 
